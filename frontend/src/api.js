@@ -51,3 +51,4 @@ export const api = {
       body: JSON.stringify(budget),
     }),
 };
+

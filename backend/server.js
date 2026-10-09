@@ -384,3 +384,4 @@ app.listen(PORT, () => {
   console.log(`Backend server running on http://localhost:${PORT}`);
   console.log(`Minimoth Key: ${MINIMOTH_API_KEY ? 'Configured' : 'Not set (using dev sandbox mode)'}`);
 });
+

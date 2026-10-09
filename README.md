@@ -136,3 +136,4 @@ minimoth/
 * **Backend**: Node.js + Express
 * **Database**: SQLite (Node built-in `node:sqlite`)
 * **Auth**: OTP via [Minimoth API](https://minimoth.dev)
+

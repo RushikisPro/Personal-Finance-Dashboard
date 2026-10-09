@@ -250,3 +250,4 @@ export default function DashboardPage({ dashboardData, onRefresh }) {
     </div>
   );
 }
+

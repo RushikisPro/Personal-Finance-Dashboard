@@ -39,3 +39,4 @@ export default function Navbar({ user, currentPage, setCurrentPage, onLogout }) 
     </header>
   );
 }
+
